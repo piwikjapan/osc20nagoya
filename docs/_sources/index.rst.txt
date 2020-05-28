@@ -283,7 +283,7 @@ Boson
 
   * Boson さん、相当自身があるみたい。大激論 → `CCCure or Boson? <https://www.reddit.com/r/cissp/comments/8giocu/cccure_or_boson/>`_
 
-    * | Boson さん、3年毎に CISSP を失効させて、試験を受けてる...
+    * | Boson さん、3 年毎に CISSP を失効させて、試験を受けてる...
       | CISSP は講義を受けて CPE を稼がないと失効します
       | I lapsed CEUs - on purpose. I know I'm going to have to take the exam every three years, so I have no need to keep track of CEUs. * CEUs: Continuing Education Units （CPE: Continuing Professional Education と同等）
   * CCCure に金払ったので使ってはないです... でもよさそうです
