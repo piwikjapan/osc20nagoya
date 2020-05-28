@@ -30,7 +30,11 @@
 CISSP とは
 ==========
 * CISSP - Certified Information Systems Security Professional セキュリティ プロフェッショナル認定資格
-* CISSP 認定資格とは、 `(ISC)² （International Information Systems Security Certification Consortium: アイエスシースクウェアー） <https://japan.isc2.org/>`_ が認定を行っている国際的に認められた情報セキュリティ・プロフェッショナル認定資格です
+* CISSP 認定資格とは、 (ISC)² が認定を行っている国際的に認められた情報セキュリティ・プロフェッショナル認定資格です
+  
+  * `(ISC)² （International Information Systems Security Certification Consortium: アイエスシー・スクエアー） <https://japan.isc2.org/>`_
+    
+    * 拠点フロリダの国際民間非営利団体
 
 なんのこっちゃ? （1）
 ---------------------
