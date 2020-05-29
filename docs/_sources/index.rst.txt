@@ -234,7 +234,7 @@ OFFICEAL PRACTICE TESTS 公式問題集（日本語）
   * 公式問題集と比較すると斜め上から考えさせるいい問題集だと思う
   * Shon Harris (March 27, 1968 – October 8, 2014) was a prolific author of books and articles on topics related to information security, including study guides for CISSP security certification examination.
 
-    * 残念、著者亡くなる
+    * 残念、共同著者のひとり Shon Harris さん亡くなる
   * CBT あり → 後ほど
 
 CBT （Computer Based Training）
@@ -270,7 +270,7 @@ McGrawHill Education
 
 * `CISSP Practice Exams, Fifth Edition Resources <https://hub.totalsem.com/mheclaim>`_
 
-  * CISSP Practice Exams, Fifth Edition に一章割いて CBT 説明有
+  * CISSP Practice Exams, Fifth Edition の Appendix で CBT 説明有
   * はやく気づけばよかった
   * google 先生のためのコピペができないのでプラグインで解除します
     
@@ -356,6 +356,7 @@ kindle で読めるようデータをつくる
   * CBK 公式、Conrad 本等、CISSP 参考書の有名どころは全て網羅
 
     * Conrad 本始め日本語化されていない書籍が安価にて手に入る
+  * メールアドレスは必要なものの認証プロセスなし、 :red:`10 日間即試用開始`
 
 e-単語集
 --------
